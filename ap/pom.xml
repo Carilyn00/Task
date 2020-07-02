@@ -50,10 +50,10 @@
 				<version>3.0.1</version>
 				<executions>
 					<execution>
-						<id>source-jar</id>
+						<id>source-war</id>
 						<phase>package</phase>
 						<goals>
-							<goal>jar</goal>
+							<goal>war</goal>
 						</goals>
 					</execution>
 				</executions>
