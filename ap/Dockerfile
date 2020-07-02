@@ -1,3 +1,3 @@
 FROM tomcat:8-jre8
 
-COPY ./mywebapp.war /usr/local/tomcat/webapps
+COPY ./uranus-0.0.1.war /usr/local/tomcat/webapps
